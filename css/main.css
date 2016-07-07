@@ -136,6 +136,7 @@ span {
     padding: 15px 30px;
     width: 55%;
     box-sizing: border-box;
+    margin: 5vh auto auto auto;
 }
 
 .second-column {
