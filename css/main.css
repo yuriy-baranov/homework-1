@@ -136,7 +136,6 @@ span {
     padding: 15px 30px;
     width: 55%;
     box-sizing: border-box;
-    margin: 5vh auto auto auto;
 }
 
 .second-column {
@@ -166,6 +165,7 @@ span {
     .first-column {
         width: 100%;
         padding: 0px 5vw;
+        margin: 5vh auto auto auto;
     }
     .second-column {
         width: 50%;
